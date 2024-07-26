@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "944340245602",
+    "firebase_url": "https://boolean-farers-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "boolean-farers",
+    "storage_bucket": "boolean-farers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944340245602:android:b8363df9bc4685969fc53b",
+        "android_client_info": {
+          "package_name": "com.example.booleanfarmers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPcKP7xPS-Is6k2uDWpnyjCS2UIw3VGHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
